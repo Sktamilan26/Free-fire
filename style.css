@@ -1,0 +1,38 @@
+body{
+background-image: url(a.png)
+}
+h1{
+  color : blue
+}
+p{
+  color : chartreuse
+}
+h2{
+  color :white
+}
+h3{
+  color :white
+}
+ol
+{
+  color :white
+}
+title{
+  color :white
+}
+a{
+  color :white
+}
+.one{
+  color : yellow
+}
+.two{
+  color : chartreuse
+}
+.three{
+  color : deeppink
+}
+#ss{
+  width:370px;
+  padding: 5px;
+}

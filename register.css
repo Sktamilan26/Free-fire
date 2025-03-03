@@ -1,0 +1,51 @@
+body{
+  background-image: url(T.jpg);
+  background-size: cover;
+  
+} 
+h1{
+  background-color:red;
+  color : yellow ;
+  padding-left: 50px
+}
+center{
+  background-color:black;
+  margin-top: 50%;
+  padding: 30px 30px 30px 30px;
+  border-radius: 15px
+}
+#name{
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid white;
+  padding: 6px;
+  margin-bottom: 15px;
+  color:white;
+}
+#button{
+  border-radius: 20px;
+  padding: 10px 20px;
+  background: dodgerblue;
+  color:white;
+  margin-top: 10px;
+  border: none;
+  outline: none;
+  margin-left: 3px
+}
+img{
+  border-radius: 50%;
+  transform: absolute;
+  margin-bottom: 10%
+}
+#button:hover{
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+}
+a{
+  color: red;
+}
+#re{
+  color: white;
+  margin-bottom: : 60px;
+}
